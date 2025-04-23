@@ -18,7 +18,7 @@ const ExpandableDrawerGroup: React.FC<Props> = ({
   return (
     <div className={twMerge(props.className)}>
       <div
-        className="flex w-full cursor-pointer items-center transition hover:brightness-75"
+        className="flex w-full cursor-pointer items-center pb-1 transition hover:brightness-75"
         onClick={() => {
           setIsShow(!isShow);
         }}>

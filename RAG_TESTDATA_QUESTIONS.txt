@@ -1,0 +1,46 @@
+🔍 Basic Retrieval Questions
+What was the maximum recorded temperature in Carbonization Reactor A (U-101) during Q1 2025?
+
+How many sensors are deployed in the AI-Powered Conveyor System?
+
+What is the average humidity level recorded by Sensor H2 in Unit U-101?
+
+🧠 Inference & Reasoning Questions
+Which unit had a predictive maintenance recommendation due to exponential vibration trend increase?
+
+Based on the anomaly detection table, which sensor had the lowest confidence anomaly?
+
+Why is it recommended to upgrade insulation in Unit U-101?
+
+🚨 Alert-Focused Questions
+What triggered ALERT-15022 and what was the recorded value?
+
+Which unit had an alert related to load imbalance, and what was the expected range?
+
+Was the CO2 uptick in U-204 ever actioned upon?
+
+📊 Trend Analysis / Data Patterns
+Describe the CO2 ppm trend in Polymer Cooling Line (U-204).
+
+How stable was the temperature cycle post-insulation upgrades in U-204?
+
+What vibration threshold has been recommended for real-time alerting?
+
+📁 Cross-Referencing Questions
+Match the following sensors to their units and anomaly types: V9, C4, T5, L2.
+
+Which units recorded anomalies but did not receive maintenance yet?
+
+What sensors had values consistently exceeding their warning thresholds?
+
+⚠️ Edge Cases / Robustness Checks
+Are there any anomalies with confidence less than 90%?
+
+Were any CO2 anomalies detected outside of U-204?
+
+List all alerts raised in February 2025.
+
+📚 Definition Checks (to test glossary grounding)
+What does RMS mean in the context of this report?
+
+How is standard deviation used in the sensor report?
